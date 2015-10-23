@@ -10,7 +10,7 @@ namespace MvcApplication1.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Мое первое приложение на GitHub";
+            ViewBag.Message = "Мое второе приложение на GitHub";
 
             return View();
         }
